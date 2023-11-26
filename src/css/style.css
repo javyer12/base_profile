@@ -227,5 +227,15 @@ span {
     display: flex;
 }
 .portfolio_box img {
-    width: 100%;
+    width: auto;
+}
+.portfolio_lay h4{
+    margin:2rem;
+    text-align: center;
+    font-size: 24px;
+}
+.portfolio_lay p {
+    font-size: 16px;
+    text-align: justify;
+    margin:10px;
 }
